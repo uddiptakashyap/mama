@@ -1,0 +1,14 @@
+mama aitu a = 7;
+mama aitu b = 8;
+
+mama aitu change hba pare sum;
+
+sum = a * b;
+
+mama saok (sum > 40) {
+    mama.kok("Bor Bor Dangor");
+} jdi nohoi mama saok (sum > 20)  {
+    mama.kok("Bor Dangor");
+} jdi nohoi {
+    mama.kok("Bor Xoru");
+}

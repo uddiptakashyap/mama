@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node node_modules/mama-language/src/mamaRunner.js"
+  },
+  "dependencies": {
+    "mama-language": "^1.0.6"
+  }
+}
